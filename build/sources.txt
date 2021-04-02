@@ -26,6 +26,8 @@ output.adb
 output.ads
 rident.ads
 sdefault.ads
+snames.adb
+snames.ads
 table.adb
 table.ads
 targparm.adb
